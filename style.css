@@ -1,0 +1,15 @@
+#flagdiv {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+canvas {
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+p {
+    margin: 0.5em;
+}
