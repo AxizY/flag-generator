@@ -8,6 +8,8 @@ Please help me make this website look better!
 
 The pixels on the flag will always be the same as long as the seed is the same.
 
+![Example of the program](example.png)
+
 ## Todo:
 - [ ] add the settings to the website as ui
 
