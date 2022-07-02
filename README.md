@@ -14,3 +14,5 @@ The pixels on the flag will always be the same as long as the seed is the same.
 - [ ] fix the black pixel issue
 
 - [ ] delete chunks of the map once it gets too big, so it can generate forever
+
+- [ ] better colors and height
